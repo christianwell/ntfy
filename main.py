@@ -1,4 +1,5 @@
-import requests # type: ignore # gører så jeg kan send ting til ntfy.sh
+import requests 
+#gører så jeg kan send ting til ntfy.sh
 import feedparser # gører så jeg kan læse rss feeds
 
 linkvejr = (
