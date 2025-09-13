@@ -1192,4 +1192,10 @@
   ('zipfile._path.glob',
    '/usr/lib/python3.12/zipfile/_path/glob.py',
    'PYMODULE'),
-  ('zipimport', '/usr/lib/python3.12/zipimport.py', 'PYMODULE')])
+  ('zipimport', '/usr/lib/python3.12/zipimport.py', 'PYMODULE'),
+  ('zstandard',
+   '/home/christian/vscode/ntfy/.venv/lib/python3.12/site-packages/zstandard/__init__.py',
+   'PYMODULE'),
+  ('zstandard.backend_cffi',
+   '/home/christian/vscode/ntfy/.venv/lib/python3.12/site-packages/zstandard/backend_cffi.py',
+   'PYMODULE')])

@@ -52,7 +52,7 @@ missing module named chardet - imported by requests (optional), feedparser.encod
 missing module named cchardet - imported by feedparser.encodings (optional)
 missing module named simplejson - imported by requests.compat (conditional, optional)
 missing module named dummy_threading - imported by requests.cookies (optional)
-missing module named zstandard - imported by urllib3.util.request (optional), urllib3.response (optional)
+missing module named zstandard.backend_rust - imported by zstandard (conditional)
 missing module named compression - imported by urllib3.util.request (optional), urllib3.response (optional)
 missing module named 'h2.events' - imported by urllib3.http2.connection (top-level)
 missing module named 'h2.connection' - imported by urllib3.http2.connection (top-level)
